@@ -1,0 +1,9 @@
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\bin\Debug\ExileSPToolsLib.dll
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\bin\Debug\ExileSPToolsLib.pdb
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\bin\Debug\System.Data.SQLite.dll
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\bin\Debug\System.Data.SQLite.xml
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\obj\Debug\ExileSPToolsLib.csprojAssemblyReference.cache
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\obj\Debug\ExileSPToolsLib.csproj.CoreCompileInputs.cache
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\obj\Debug\ExileSPToolsLib.csproj.CopyComplete
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\obj\Debug\ExileSPToolsLib.dll
+F:\Documents\Programms\ExilesSPTools\ExilesSPTools\ExileSPToolsLib\obj\Debug\ExileSPToolsLib.pdb
