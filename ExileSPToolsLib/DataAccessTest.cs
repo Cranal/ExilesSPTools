@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SQLite;
 
-namespace ExilesSPToolsLib
+namespace ExileSPToolsLib
 {
     public class DataAccessTest
     {

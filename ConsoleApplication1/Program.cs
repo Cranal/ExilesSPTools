@@ -1,5 +1,9 @@
 ﻿using System;
-using ExilesSPToolsLib;
+using System.Linq;
+using ExileSPToolsLib;
+using ExileSPToolsLib.DataAccess;
+using ExileSPToolsLib.DataAccess.DataConverters;
+using ExileSPToolsLib.DataContainers;
 
 namespace ConsoleApplication1
 {
@@ -7,12 +11,10 @@ namespace ConsoleApplication1
     {
         public static void Main(string[] args)
         {
-            DataAccessTest test = new DataAccessTest();
-            var testData = test.GetPlayers();
+            CharacterManager manager = new CharacterManager(new DataManager(@"F:\Back\Conan\Coop\Saved\Game.db"));
+            var characters = manager.GetCharacters();
             
-            testData.ForEach(Console.WriteLine);
-
-            Console.ReadKey();
+            manager.SetActive(null);
         }
     }
 }
